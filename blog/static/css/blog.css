@@ -13,9 +13,12 @@
 .content {
     margin-left: 40px;
 }
-
+a {
+    color: #C25100;
+}
 h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
+   
 }
 
 .date {
